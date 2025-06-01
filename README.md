@@ -1,5 +1,5 @@
 
-#  LLAMA2 Chatbot with LangChain & Streamlit
+#  LLAMA3 Chatbot with LangChain & Streamlit
 
 A lightweight conversational chatbot powered by **Meta’s LLAMA2** using **LangChain** and deployed through a **Streamlit web interface**. This assistant is designed for interactive Q&A, demonstrating how to integrate a local LLM via Ollama with LangChain components and custom prompts.
 
